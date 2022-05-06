@@ -1,0 +1,21 @@
+{
+    "name": "vibe",
+    "displayName": "vibe",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vibe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vibe-color-theme.json"
+            }
+        ]
+    }
+}
