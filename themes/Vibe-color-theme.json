@@ -74,19 +74,11 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
-			],
-			"settings": {
-				"foreground": "#b1defa"
-			}
-		},
-		{
-			"name": "Colors",
-			"scope": [
+				"string constant.other.placeholder",
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#b1defa"
 			}
 		},
 		{
@@ -100,9 +92,8 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Storage",
 			"scope": [
-				"keyword",
 				"storage.type",
 				"storage.modifier"
 			],
@@ -112,23 +103,33 @@
 			}
 		},
 		{
-			"name": "Operator, Misc",
+			"name": "Punctuation, Def",
 			"scope": [
-				"keyword.control",
-				"constant.other.color",
-				"punctuation",
 				"meta.tag",
+				"keyword",
+				"punctuation",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
+			],
+			"settings": {
+				"foreground": "#55dbe0",
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"keyword.control",
+				"constant.other.color",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#55dbe0"
+				"fontStyle": "italic bold",
+				"foreground": "#a9e9b2"
 			}
 		},
 		{
@@ -227,7 +228,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#b37ebc"
+				"foreground": "#fdefb0"
 			}
 		},
 		{
