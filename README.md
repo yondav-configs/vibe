@@ -18,10 +18,10 @@ A beautiful dark theme for Visual Studio Code
 <p align=center>Copyright &copy; 2022, Yoni David<p>
 <div align=center style='margin-top: 20px;'>
   <a href='https://github.com/yondav' alt='github' target='_blank' rel='noopener noreferrer' >
-    <img src='./images/github.svg' width='32px' />
+    <img src='./images/github.png' width='32px' />
   </a>
   <a href='https://www.yondav.us' alt='yondav' target='_blank' rel='noopener noreferrer' >
-    <img src='./images/yd.svg' width='32px' style='margin-left: 4px;' />
+    <img src='./images/yd.png' width='32px' style='margin-left: 4px;' />
   </a>
 </div>
 
