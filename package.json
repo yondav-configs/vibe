@@ -2,7 +2,7 @@
     "name": "vibe",
     "displayName": "vibe",
     "description": "theme for vscode by yondav",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -19,6 +19,11 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+    "color": "#161618",
+    "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
