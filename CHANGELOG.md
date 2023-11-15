@@ -4,10 +4,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [2.0.1](https://github.com/yondav-configs/vibe/compare/v2.0.2...v2.0.1) (2023-11-15)
 
-### [2.0.2](https://github.com/yondav-configs/vibe/compare/v2.0.1...v2.0.2) (2023-11-15)
-
-### [2.0.1](https://github.com/yondav-configs/vibe/compare/v1.1.0...v2.0.1) (2023-11-15)
-
 ## 1.1.0 (2023-11-15)
 
 ### Features
