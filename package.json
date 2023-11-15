@@ -2,7 +2,7 @@
   "name": "vibe",
   "displayName": "vibe",
   "description": "theme for vscode by yondav",
-  "version": "2.0.2",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.67.0"
   },
